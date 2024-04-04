@@ -11,6 +11,7 @@ int main()
 		{
 			cout<<"one";
 			
+			
 		}
 		else if(n==2)
 		{
