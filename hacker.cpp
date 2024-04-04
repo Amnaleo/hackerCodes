@@ -10,6 +10,7 @@ int main()
 		if(n==1)
 		{
 			cout<<"one";
+			
 		}
 		else if(n==2)
 		{
