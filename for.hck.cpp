@@ -24,6 +24,7 @@ int main ()
 		{
 			cout<<"three\n";
 		}
+		
 		else if (n==4)
 		{
 			cout <<"four\n";
